@@ -1,6 +1,8 @@
 # Material Palenight Themes for Terminals
 A collection of Material Palenight themes for various terminals.
 
+![Palenight Colors](https://github.com/SamSebastien/palenight-themes/blob/master/banner.jpg?raw=true)
+
 #### Available Terminals
 
 * PuTTY / KiTTY: `palenight-putty.reg`
