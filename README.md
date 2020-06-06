@@ -6,7 +6,7 @@ A collection of Material Palenight themes for various terminals.
 #### Available Terminals
 
 * PuTTY / KiTTY: `palenight-putty.reg`
-* MinTTY / GitBash: `palenight-mintty.txt`
+* MinTTY / GitBash: `palenight-mintty.minttyrc`
 
 ## Installation
 
